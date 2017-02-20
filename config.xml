@@ -18,9 +18,6 @@
 
         <!-- ANDROID * ANDROID * ANDROID -->
         <platform name="android" >
-   
-  <icon src="ldpi.png" gap:platform="android" gap:density="ldpi" />
-  <splash src="ldpi.png" gap:platform="android" gap:qualifier="lhdpi" />
 </platform>
        
 
