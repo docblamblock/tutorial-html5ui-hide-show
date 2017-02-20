@@ -17,14 +17,14 @@
         <preference name="permissions" value="none"/>
 
         <!-- ANDROID * ANDROID * ANDROID -->
-        <platform name="android" >
-            <splash src="splash.png" gap:platform="android" gap:qualifier="lhdpi" />
+        <platform name="android" >            
         </platform>
        
 
         <!-- PLUGINS * PLUGINS * PLUGINS -->
         <plugin name="cordova-plugin-device"         source="npm" spec="1.0.1" />
         <plugin name="cordova-plugin-whitelist"      source="npm" spec="1.0.0" />
+        <plugin name="cordova-splashscreen"      source="npm" spec="1.0.0" />
        
         
         
