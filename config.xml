@@ -18,6 +18,7 @@
 
         <!-- ANDROID * ANDROID * ANDROID -->
         <platform name="android" >
+            <splash src="android/ldpi.png" gap:platform="android" gap:qualifier="lhdpi" />
         </platform>
        
 
