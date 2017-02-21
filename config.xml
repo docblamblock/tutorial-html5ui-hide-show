@@ -18,6 +18,7 @@
 
         <!-- ANDROID * ANDROID * ANDROID -->
         <platform name="android" >            
+        <splash src="ldpi.png" platform="android" qualifier="ldpi" />
         </platform>
        
 
